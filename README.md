@@ -1,14 +1,8 @@
 # OCTANET_JANUARY
 Landing page of a Mango store using HTML and CSS.
-
-   <a href="#about" class="nav-link">ABOUT</a>
-          <a href="#varieties" class="nav-link">DIVERSITY</a>
-          <a href="#our-service" class="nav-link">OUR SERVICE</a>
-          <a href="#contacts" class="nav-link">CONTACT</a>
    
 # Tropic - The Mango Paradise
-      <link rel="stylesheet" href="style.css" />
-
+   
 # Description:
 
 Welcome to Tropic, your one-stop shop for premium mangoes! This landing page is designed to showcase the diverse range of mango varieties we offer and entice visitors to explore and make a purchase. Tropic is built with a focus on delivering a delightful user experience while highlighting the freshness and quality of our mangoes.
