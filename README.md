@@ -47,6 +47,8 @@ Open `index.html` in your preferred web browser.
 
 # Output Snapshots:
 ![image](https://github.com/RenuckaM/OCTANET_JANUARY/assets/147283564/dd7609cb-75d1-4cde-8918-0215ca34fa7b)
+![image](https://github.com/RenuckaM/OCTANET_JANUARY/assets/147283564/a75003e6-235a-41c6-88a5-2ef950ad6afd)
+
 
 
 # Credits:
