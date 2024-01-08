@@ -45,6 +45,10 @@ Open `index.html` in your preferred web browser.
 
        https://renuckam.github.io/OCTANET_JANUARY/
 
+# Output Snapshots:
+![image](https://github.com/RenuckaM/OCTANET_JANUARY/assets/147283564/dd7609cb-75d1-4cde-8918-0215ca34fa7b)
+
+
 # Credits:
 
 Mention any external libraries, frameworks, or resources used. Give credit to designers, photographers, or any collaborators.
