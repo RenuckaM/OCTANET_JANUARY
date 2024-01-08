@@ -6,6 +6,7 @@ Landing page of a Mango store using HTML and CSS.
 # Description:
 
 Welcome to Tropic, your one-stop shop for premium mangoes! This landing page is designed to showcase the diverse range of mango varieties we offer and entice visitors to explore and make a purchase. Tropic is built with a focus on delivering a delightful user experience while highlighting the freshness and quality of our mangoes.
+
 **Welcome to Nature's Bounty - Where Flavor Meets Freshness! Immerse Yourself in Nature's Palette. Indulge in a Symphony of Sweetness at Our Fruit Oasis! Discover the Taste of Freshness.**
 
 # Features:
