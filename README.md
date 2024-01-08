@@ -2,6 +2,7 @@
 Landing page of a Mango store using HTML and CSS.
    
 # Tropic - The Mango Paradise
+      <link rel="stylesheet" href="style.css" />
 
 # Description:
 
