@@ -40,10 +40,10 @@ Welcome to Tropic, your one-stop shop for premium mangoes! This landing page is 
 Clone the repository:
 
         git clone https://github.com/yourusername/tropic-landing-page.git
-
-        https://renuckam.github.io/OCTANET_JANUARY/
   
 Open `index.html` in your preferred web browser.
+
+       https://renuckam.github.io/OCTANET_JANUARY/
 
 # Credits:
 
